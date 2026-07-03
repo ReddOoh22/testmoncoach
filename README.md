@@ -49,3 +49,5 @@ Les donnees d'historique sont stockees dans le navigateur via `localStorage`. El
 - Export JSON de l'historique.
 - Installation sur l'ecran d'accueil iPhone.
 - Cache hors ligne apres premier chargement.
+
+Déploiment test
